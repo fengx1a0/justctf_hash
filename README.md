@@ -3,6 +3,8 @@
 **构建**
 
 ```bash
+# 下载
+git clone https://github.com/fengx1a0/justctf_hash.git
 cd
 # BUILD
 docker build -t YOUR_NAME .
